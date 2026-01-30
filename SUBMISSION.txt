@@ -1,0 +1,8 @@
+Frontend Repository URL: https://github.com/INDRAKUMAR2005/money-manager-frontend
+Backend Repository URL: https://github.com/INDRAKUMAR2005/money-manager-backend
+
+Frontend Deployed URL: https://money-manager-indrakumar.vercel.app/
+Backend Deployed URL: https://money-manager-backend-woad.vercel.app/
+
+Frontend Last Committed Hash ID: 7ff79e0ced797a4e926f162709a3b666b70e4c2e9
+Backend Last Committed Hash ID: 88f5738369baf9a09bf5f13505399332debc8cdb1
